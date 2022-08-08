@@ -13,12 +13,12 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: The software engineer oasis
-email: pepe.marquezromero@gmail.com
+title: Juan de Juanes Blog
+email: juanes4498@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Programming and stuff
-twitter_username: _PXP9_
-github_username: pxp9
+  Manufacturing Technology Issues
+twitter_username: _wikifab08_
+github_username: Juanes4498
 minimal_mistakes_skin: dark
 search: true
 
@@ -59,31 +59,31 @@ plugins:
   - jekyll-redirect-from
 
 author:
-  name   : "Pepe Márquez Romero"
+  name   : “Juan de Juanes Marquez Sevillano”
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Computer science student"
+  bio    : “Manuf. Tech. Specialist”
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/pxp9"
+      url: "https://github.com/Juanes4498”
     - label : "Mail"
       icon: "fab fa fa-envelope"
-      url: "mailto:pepe.marquezromero@gmail.com"
+      url: "mailto:juanes4498@gmail.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/_PXP9_"
+      url: "https://twitter.com/_wikifab08_”
 
 footer:
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/pxp9"
+      url: "https://github.com/Juanes4498”
     - label : "Mail"
       icon: "fab fa fa-envelope"
-      url: "mailto:pepe.marquezromero@gmail.com"
+      url: "mailto:juanes4498@gmail.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/_PXP9_"
+      url: "https://twitter.com/_wikifab08_”
 
 defaults:
   # _posts
