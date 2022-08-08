@@ -59,31 +59,31 @@ plugins:
   - jekyll-redirect-from
 
 author:
-  name   : “Juan de Juanes Marquez Sevillano”
+  name   : "Juan de Juanes Marquez Sevillano"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : “Manuf. Tech. Specialist”
+  bio    : "Manuf. Tech. Specialist"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/Juanes4498”
+      url: "https://github.com/Juanes4498"
     - label : "Mail"
       icon: "fab fa fa-envelope"
       url: "mailto:juanes4498@gmail.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/wikifab08”
+      url: "https://twitter.com/wikifab08"
 
 footer:
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/Juanes4498”
+      url: "https://github.com/Juanes4498"
     - label : "Mail"
       icon: "fab fa fa-envelope"
       url: "mailto:juanes4498@gmail.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/wikifab08”
+      url: "https://twitter.com/wikifab08"
 
 defaults:
   # _posts
