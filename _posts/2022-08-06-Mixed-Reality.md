@@ -15,3 +15,5 @@ Application of Mixed Reality for Industrial Maintenance is improving dramaticall
 
 - Improve Human-Machine Interface
 - Reduce checking and updating times in the shopfloor
+
+![Mixed Reality](/images/MR_Maintenance.jpg)
