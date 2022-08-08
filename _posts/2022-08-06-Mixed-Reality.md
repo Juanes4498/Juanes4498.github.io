@@ -8,7 +8,7 @@ tags:
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /images/Hololens2.png
+  overlay_image: /images/Hololens2.jpg
 ---
 
 Application of Mixed Reality for Industrial Maintenance is improving dramatically efficiency in two aspects
